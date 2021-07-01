@@ -1,0 +1,66 @@
+body 
+{
+    font-family: 'Special Elite', cursive;
+    background:aquamarine;
+}
+.header_div
+{
+    background:lawngreen;
+    color:seagreen;
+}
+.header_div img
+{
+    width: 100px;
+}
+.main_div
+{
+    background:aquamarine;
+    padding: 10px;
+    margin-top: 15px;
+    border: 5px solid lawngreen;
+}
+.main_div label
+{
+    background:lawngreen;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 7px 20px lime ;
+}
+#camera
+{
+    width: 310px;
+    height: 300px;
+    box-shadow:7px 7px 20px lime ;
+}
+#result
+{
+    width: 310px;
+    height: 300px;
+    box-shadow:7px 7px 20px lime ;
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+.footer_div h4
+{
+    background:limegreen;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px limegreen;
+}
+.footer_div img
+{
+    width: 70px;
+}
+.copy_right_footer 
+{
+    position: fixed;
+    color:seagreen;
+    bottom: 0;
+    width: 100%;
+    background-color:aquamarine;
+    line-height: 3;
+    text-align: center;
+}
